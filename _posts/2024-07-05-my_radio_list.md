@@ -1,6 +1,5 @@
-NAME	URL
-[讲客广播台]	(https://stream.rcs.revma.com/akqrbx94gbkvv/8_4gbymkxluk5r02/playlist.m3u8)
-[臺北廣播電臺]	(https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/chunklist_w1323446137.m3u8)
+[讲客广播台](https://stream.rcs.revma.com/akqrbx94gbkvv/8_4gbymkxluk5r02/playlist.m3u8)
+[臺北廣播電臺](https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/chunklist_w1323446137.m3u8)
 香港電台第一台	https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8
 香港電台第二台	https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8
 Korea CBS	https://aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/chunklist_w1293999912.m3u8
