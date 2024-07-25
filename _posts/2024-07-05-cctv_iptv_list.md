@@ -16,8 +16,7 @@ CCTV-14 少儿<http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/ind
 CCTV-15 音乐<http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8>  
 CCTV-16 奥林匹克<http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8>  
 CCTV-17 农业农村<http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8>
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="备用频道",北京卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8  
+北京卫视<http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8>  
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="备用频道",湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="备用频道",东方卫视
