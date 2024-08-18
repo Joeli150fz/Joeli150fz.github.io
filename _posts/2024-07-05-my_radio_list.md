@@ -19,7 +19,7 @@
 [苏州生活广播](https://ytcastmp3.radio.cn/70/stream_10696.mp3?type=1&key=5a69e8698b7e07128b34ba3ffc85b910&time=66c15b31)  
 [苏州新闻综合广播](https://ytcastmp3.radio.cn/71/stream_10694.mp3?type=1&key=5dd896b5903b701f74179b036e460179&time=66c15b31)  
 [梅州综合广播](https://ytcastmp3.radio.cn/75/stream_11063.mp3?type=1&key=ee308554c58a07f9b9de3642070f5e31&time=66c159de)  
-[广东梅州交通广播](https://lhttp.qtfm.cn/live/1258/64k.mp3)      
+[梅州交通广播](https://lhttp.qtfm.cn/live/1258/64k.mp3)      
 [FM987福建都市廣播](https://live5.fjtv.net/aac_dsgb/hd/live.m3u8?_upt=b827b7de1723967288)   
 [FM913福建音樂廣播](https://live5.fjtv.net/aac_yygb/hd/live.m3u8?_upt=d317070c1723967678)    
 [FM893福州音樂廣播](https://live.zohi.tv/audio/s10001-FM893/index.m3u8)   
