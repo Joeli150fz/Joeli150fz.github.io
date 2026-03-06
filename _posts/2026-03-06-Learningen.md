@@ -1,47 +1,47 @@
-##Always Remember Us This Way - Lady Gaga
-That Arizona sky burnin' in your eyes
+# Always Remember Us This Way - Lady Gaga
+## That Arizona sky burnin' in your eyes
 亚利桑那的天空，在你眼中燃烧
-You look at me and, babe, I wanna catch on fire
+## You look at me and, babe, I wanna catch on fire
 你凝视着我，宝贝，我仿佛要被点燃
-It's buried in my soul like California gold
+## It's buried in my soul like California gold
 这份爱如加州黄金，深埋我灵魂
-You found the light in me that I couldn't find
+## You found the light in me that I couldn't find
 你找到了我自己都未曾发现的光芒
-So when I'm all choked up
+## So when I'm all choked up
 所以当我哽咽难言
-But I can't find the words
+## But I can't find the words
 却找不到词句
-Every time we say goodbye
+## Every time we say goodbye
 每次我们道别
-Baby, it hurts
+## Baby, it hurts
 宝贝，都痛彻心扉
-When the sun goes down
+## When the sun goes down
 当夕阳西沉
-And the band won't play
+## And the band won't play
 乐队不再演奏
-I'll always remember us this way
+## I'll always remember us this way
 我会永远铭记我们此刻的模样
-Lovers in the night
+## Lovers in the night
 深夜里的恋人
-Poets tryin' to write
+## Poets tryin' to write
 像诗人般试着书写
-We don't know how to rhyme
+## We don't know how to rhyme
 我们不懂如何押韵
-But, damn, we try
+## But, damn, we try
 却仍拼命尝试
-But all I really know
+## But all I really know
 我唯一确信的是
-You're where I wanna go
+## You're where I wanna go
 你是我心之所向
-The part of me that's you will never die
+## The part of me that's you will never die
 我灵魂里属于你的那部分，永不消亡
-Oh, yeah
+## Oh, yeah
 哦，是的
-I don't wanna be just a memory, baby, yeah
+## I don't wanna be just a memory, baby, yeah
 宝贝，我不想只成为一段回忆
-When you look at me
+## When you look at me
 当你凝视我
-And the whole world fades
+## And the whole world fades
 整个世界都褪去色彩
-I'll always remember us this way
+## I'll always remember us this way
 我会永远铭记我们此刻的模样
