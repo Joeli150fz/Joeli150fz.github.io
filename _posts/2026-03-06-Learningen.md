@@ -4,8 +4,8 @@ Contract：合同，契约
 Metaphor：隐喻，暗喻  
 Pursuit：追求，追赶  
 Capacity：能力，容量  
-Impression：印象
-Presence：存在，到场，出席
+Impression：印象  
+Presence：存在，到场，出席  
 Proprietor：所有人，业主  
 Decision：决定，决策  
 Inheritance：继承物，遗产  
@@ -58,15 +58,14 @@ Exceptional：异常的，杰出的
 Persistent：执着的，持久的  
 Primitive：原始的，简单的  
 Incessant (Incessantly)：不断的，连续的  
-4. 必备短语 (Essential Phrases)  
+## 4. 必备短语 (Essential Phrases)  
 Word of mouth：口碑  
 Be accustomed to：习惯于……  
 Strike up a conversation：搭话，开始交谈  
 In the long run：从长远来看  
 Make an impression on：给……留下印象    
 Take advantage of：利用……  
-学习建议： 小说中反复出现的关键词如 "Personal Legend"（天命/个人追求
-）和 "Omen"（预兆），虽然在四级大纲中不一定是核心词，但对于理解本书的哲学内核至关重要。您可以结合文中提到的“语言不仅仅是文字”（language without words）这一观点，在阅读中去感受词汇的语境意义。
+学习建议： 小说中反复出现的关键词如 "Personal Legend"（天命/个人追求）和 "Omen"（预兆），虽然在四级大纲中不一定是核心词，但对于理解本书的哲学内核至关重要。您可以结合文中提到的“语言不仅仅是文字”（language without words）这一观点，在阅读中去感受词汇的语境意义。
 
 
 # Always Remember Us This Way - Lady Gaga
