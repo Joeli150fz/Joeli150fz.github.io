@@ -6,15 +6,15 @@ Pursuit：追求，追赶
 Capacity：能力，容量  
 Impression：印象
 Presence：存在，到场，出席
-Proprietor：所有人，业主
-Decision：决定，决策
-Inheritance：继承物，遗产
-Interpretation：解释，翻译
+Proprietor：所有人，业主  
+Decision：决定，决策  
+Inheritance：继承物，遗产  
+Interpretation：解释，翻译  
 Existence：存在  
-Ability / Inability：能力 / 无能
-Confusion：困惑，混乱
-Departure：离开，出发
-Victim：受害者
+Ability / Inability：能力 / 无能  
+Confusion：困惑，混乱  
+Departure：离开，出发  
+Victim：受害者  
 Requirement：要求，必要条件  
 Accomplishment：成就，完成  
 Warehouse：仓库  
