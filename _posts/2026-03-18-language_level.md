@@ -1,16 +1,9 @@
-## 目录
-1. [CEFR C1 Word List](#CEFR C1 Word List)
-2. [核心功能](#核心功能)
-3. [安装步骤](#安装步骤)
-4. [常见问题解答](#常见问题解答)
----
 - [CEFR C2 Word List](#cefr-c2-word-list)
-  * [A](#a)
 - [CEFR C1 Word List](#cefr-c1-word-list)
 - [CEFR B2 Word List](#cefr-b2-word-list)
-- [CEFR C1 Word List](#cefr-b1-word-list)
+- [CEFR B1 Word List](#cefr-b1-word-list)
 - [CEFR A2 Word List](#cefr-a2-word-list)
-- [CEFR C1 Word List](#cefr-a1-word-list)
+- [CEFR A1 Word List](#cefr-a1-word-list)
 
 # CEFR C2 Word List
 ## A	
