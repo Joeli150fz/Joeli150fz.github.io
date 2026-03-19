@@ -1,3 +1,46 @@
+
+## How to Determine the Semantic Module for "Resort" in Your Example?  
+In the sentence: "Never thought they would just continue bombing Gaza and then what's happening now? They just sort of stop and now they're talking about putting a resort there," determining the semantic module for "resort" involves looking beyond the dictionary definition and focusing on Context, Connotation, and Logic.
+
+You can deconstruct it through these four dimensions:
+
+- 1. Conceptual Module (The Basic Concept)
+This is the base layer. The word "resort" activates features in the listener's brain such as:
+
+Definition: A place for recreation, entertainment, and vacation.
+
+Attributes: Luxury, relaxation, high cost, and beautiful scenery (usually seaside).
+
+Conflict: In this sentence, it stands in extreme contrast to "bombing Gaza."
+
+- 2. Contextual Module (The Environment)
+The semantic module uses the surrounding words to lock in the specific meaning:
+
+Temporal/Spatial Contrast: One moment it is war and ruins (Gaza); the next, it is a "resort."
+
+Semantic Shift: Here, "resort" is no longer a neutral travel term; it becomes a political symbol implying post-war land occupation and indifference to previous suffering.
+
+- 3. Affective/Evaluative Module (The Emotion)
+This is key to understanding the "hidden meaning":
+
+Absurdity & Shock: As the speaker says, "What are like you hear that and you go...", the semantic module carries a heavy load of absurdity and incredulity.
+
+Negative Evaluation: In a war context, "resort" is tagged as "callous," "opportunistic," and "surreal."
+
+- 4. Inference Module (The Logic)
+The listener completes a logical loop:
+
+Premise: Gaza is being bombed.
+
+Contradictory Input: Plans for a luxury resort on those ruins.
+
+Conclusion: The word represents extreme social injustice or the brutal logic of geopolitics.
+
+- Summary
+In this specific context, the semantic module for "resort" is not just "a tourist destination." It is defined by the violent cognitive dissonance between "images of extreme luxury" and the "reality of war-torn ruins."
+
+
+
 ## 1. 核心名词 (Core Nouns)  
 这类词汇常出现在四级阅读和听力中，涉及合同、能力、心理状态等。  
 Contract：合同，契约  
